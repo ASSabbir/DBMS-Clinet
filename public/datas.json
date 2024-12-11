@@ -1,0 +1,404 @@
+[
+    {
+      "id": 3,
+      "category_name": "Project Management",
+      "job_title": "Project Manager",
+      "description": "Manage projects from start to finish, ensuring deadlines and budgets are met. Lead cross-functional teams and communicate project updates.",
+      "key_responsibilities": [
+        "Oversee project planning and execution.",
+        "Manage project timelines and resources.",
+        "Coordinate between teams and stakeholders."
+      ],
+      "skills_and_experience": "Proven experience in project management. Strong organizational and leadership skills. Familiarity with project management software like Jira or Trello.",
+      "expiration_date": "October 25, 2025",
+      "location": "Dhaka, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 35,
+      "salary": 1400,
+      "skills": ["Project Management", "Team Leadership", "Scheduling", "Budgeting", "Jira"],
+      "industry": "Project Management",
+      "image": "https://i.ibb.co.com/kcdtVxq/05a99b97c98c21b3fc384472dbff7f22.jpg"
+    },
+    {
+      "id": 12,
+      "category_name": "Design",
+      "job_title": "Graphic Designer",
+      "description": "Create visual concepts and designs for print and digital media. Work with clients to understand their needs and create designs that meet those requirements.",
+      "key_responsibilities": [
+        "Design graphics for websites, brochures, and advertisements.",
+        "Collaborate with clients and understand design requirements.",
+        "Ensure designs are visually appealing and align with brand guidelines."
+      ],
+      "skills_and_experience": "Experience in Adobe Photoshop, Illustrator, and InDesign. Strong portfolio of design work. Ability to take creative direction and work independently.",
+      "expiration_date": "April 17, 2025",
+      "location": "Chattogram, Bangladesh",
+      "hours_per_week": 35,
+      "rate_per_hour": 30,
+      "salary": 1050,
+      "skills": ["Adobe Photoshop", "Illustrator", "Graphic Design", "Branding", "Creative Direction"],
+      "industry": "Design",
+      "image": "https://i.ibb.co/Dg3yLF3/web-design.png"
+    },
+    {
+      "id": 2,
+      "category_name": "Sales",
+      "job_title": "Sales Manager",
+      "description": "Lead the sales team, develop sales strategies, and track performance. Work closely with clients and manage relationships.",
+      "key_responsibilities": [
+        "Lead and motivate the sales team.",
+        "Develop and implement sales strategies.",
+        "Maintain relationships with key clients."
+      ],
+      "skills_and_experience": "Proven experience in sales management. Strong leadership and communication skills. Knowledge of CRM software.",
+      "expiration_date": "December 15, 2025",
+      "location": "Sylhet, Bangladesh",
+      "hours_per_week": 45,
+      "rate_per_hour": 38,
+      "salary": 1710,
+      "skills": ["Sales Management", "Team Leadership", "Client Relationships", "CRM", "Strategy Development"],
+      "industry": "Sales",
+      "image": "https://i.ibb.co/RNXN5Yj/sales.png"
+    },
+    {
+      "id": 1,
+      "category_name": "Marketing",
+      "job_title": "Digital Marketing Specialist",
+      "description": "Develop and implement online marketing strategies. Monitor and analyze digital campaign performance and recommend improvements.",
+      "key_responsibilities": [
+        "Create and manage online marketing campaigns.",
+        "Track campaign performance and adjust strategies.",
+        "Optimize SEO and paid search strategies."
+      ],
+      "skills_and_experience": "Experience in SEO, SEM, and Google Analytics. Strong understanding of online advertising platforms like Google Ads and Facebook Ads.",
+      "expiration_date": "August 05, 2025",
+      "location": "Rajshahi, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 28,
+      "salary": 1120,
+      "skills": ["SEO", "SEM", "Google Analytics", "Digital Marketing", "PPC Campaigns"],
+      "industry": "Marketing",
+      "image": "https://i.ibb.co/Z8pvqR0/megaphone.png"
+    },
+    {
+      "id": 5,
+      "category_name": "Project Management",
+      "job_title": "Project Coordinator",
+      "description": "Support project managers in coordinating activities. Assist with project documentation, scheduling, and client communication.",
+      "key_responsibilities": [
+        "Coordinate project activities and timelines.",
+        "Assist with project documentation.",
+        "Communicate with clients regarding project status."
+      ],
+      "skills_and_experience": "Experience in project coordination. Strong organizational and communication skills. Ability to work with cross-functional teams.",
+      "expiration_date": "November 23, 2025",
+      "location": "Barisal, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 22,
+      "salary": 880,
+      "skills": ["Project Coordination", "Scheduling", "Client Communication", "Documentation", "Team Collaboration"],
+      "industry": "Project Management",
+      "image": "https://i.ibb.co/bFqN4m9/project-management.png"
+    },
+    {
+      "id": 16,
+      "category_name": "Customer Service",
+      "job_title": "Customer Support Representative",
+      "description": "Provide assistance to customers, resolve issues, and ensure satisfaction. Handle inbound calls, emails, and chats.",
+      "key_responsibilities": [
+        "Answer customer inquiries via phone, email, and chat.",
+        "Resolve customer issues and ensure satisfaction.",
+        "Maintain records of customer interactions."
+      ],
+      "skills_and_experience": "Experience in customer service. Strong communication skills. Ability to troubleshoot and resolve issues quickly.",
+      "expiration_date": "June 12, 2025",
+      "location": "Dhaka, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 15,
+      "salary": 600,
+      "skills": ["Customer Service", "Communication", "Troubleshooting", "Problem Solving", "Client Management"],
+      "industry": "Customer Service",
+      "image": "https://i.ibb.co/qNDwqTH/customer-service.png"
+    },
+    {
+      "id": 9,
+      "category_name": "Sales",
+      "job_title": "Retail Sales Associate",
+      "description": "Assist customers in selecting products. Process transactions and maintain the appearance of the sales floor.",
+      "key_responsibilities": [
+        "Assist customers with product selection.",
+        "Process sales transactions.",
+        "Maintain store organization and cleanliness."
+      ],
+      "skills_and_experience": "Experience in retail sales. Strong product knowledge. Ability to work in a fast-paced environment.",
+      "expiration_date": "January 11, 2025",
+      "location": "Rajshahi, Bangladesh",
+      "hours_per_week": 30,
+      "rate_per_hour": 18,
+      "salary": 540,
+      "skills": ["Retail Sales", "Customer Assistance", "Cash Handling", "Product Knowledge", "Store Organization"],
+      "industry": "Sales",
+      "image": "https://i.ibb.co/RNXN5Yj/sales.png"
+    },
+    {
+      "id": 10,
+      "category_name": "Human Resources",
+      "job_title": "Recruitment Manager",
+      "description": "Oversee the recruitment process. Develop hiring strategies, conduct interviews, and ensure the best candidates are selected.",
+      "key_responsibilities": [
+        "Develop and implement recruitment strategies.",
+        "Conduct interviews and assess candidates.",
+        "Collaborate with hiring managers to meet staffing needs."
+      ],
+      "skills_and_experience": "Extensive experience in recruitment and talent acquisition. Strong interviewing and assessment skills. Ability to work with various hiring platforms.",
+      "expiration_date": "December 28, 2025",
+      "location": "Chattogram, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 36,
+      "salary": 1440,
+      "skills": ["Recruitment", "Interviewing", "Talent Acquisition", "Staffing", "Hiring Platforms"],
+      "industry": "Human Resources",
+      "image": "https://i.ibb.co/CWBW6Dz/management.png"
+    },
+    {
+      "id": 4,
+      "category_name": "Healthcare",
+      "job_title": "Nurse",
+      "description": "Provide healthcare services to patients. Monitor vital signs, administer medications, and assist with patient care.",
+      "key_responsibilities": [
+        "Monitor and record patient vitals.",
+        "Administer medications and treatments.",
+        "Provide assistance with patient care."
+      ],
+      "skills_and_experience": "Registered nurse with clinical experience. Knowledge of medical terminology and patient care procedures. Strong communication and attention to detail.",
+      "expiration_date": "August 30, 2025",
+      "location": "Dhaka, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 20,
+      "salary": 800,
+      "skills": ["Patient Care", "Clinical Skills", "Nursing", "Medication Administration", "Vitals Monitoring"],
+      "industry": "Healthcare",
+      "image": "https://i.ibb.co/sq70Hjt/healthcare.png"
+    },
+    {
+      "id": 11,
+      "category_name": "Human Resources",
+      "job_title": "HR Specialist",
+      "description": "Support HR functions, handle recruitment, and assist with employee relations. Ensure compliance with HR policies.",
+      "key_responsibilities": [
+        "Assist with recruitment and onboarding.",
+        "Handle employee relations and issues.",
+        "Ensure HR policy compliance."
+      ],
+      "skills_and_experience": "Experience in HR support roles. Knowledge of HR practices and compliance. Strong interpersonal and communication skills.",
+      "expiration_date": "February 14, 2025",
+      "location": "Sylhet, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 28,
+      "salary": 1120,
+      "skills": ["Recruitment", "Employee Relations", "HR Policies", "Onboarding", "Compliance"],
+      "industry": "Human Resources",
+      "image": "https://i.ibb.co/CWBW6Dz/management.png"
+    },
+  
+    {
+      "id": 18,
+      "category_name": "Design",
+      "job_title": "Web Designer",
+      "description": "Design, develop and maintain websites. Ensure websites are user-friendly and responsive. Collaborate with teams to create appealing website layouts and graphics.",
+      "key_responsibilities": [
+        "Design and develop responsive websites.",
+        "Collaborate with development teams.",
+        "Ensure optimal user experience."
+      ],
+      "skills_and_experience": "Experience in HTML, CSS, JavaScript, and web design principles. Familiarity with design tools like Figma and Adobe XD. Strong communication and teamwork skills.",
+      "expiration_date": "April 16, 2025",
+      "location": "Rajshahi, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 28,
+      "salary": 1120,
+      "skills": ["HTML", "CSS", "JavaScript", "Figma", "Responsive Design"],
+      "industry": "Design",
+      "image": "https://i.ibb.co/Dg3yLF3/web-design.png"
+    },
+    {
+      "id": 6,
+      "category_name": "Human Resources",
+      "job_title": "Payroll Specialist",
+      "description": "Manage payroll processing and ensure timely salary disbursement. Handle benefits administration and resolve employee payroll queries.",
+      "key_responsibilities": [
+        "Process payroll accurately and on time.",
+        "Ensure compliance with tax regulations.",
+        "Respond to payroll inquiries from employees."
+      ],
+      "skills_and_experience": "Experience with payroll systems and tax laws. Strong attention to detail and ability to work with confidential information. Familiarity with HR software.",
+      "expiration_date": "May 20, 2025",
+      "location": "Chattogram, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 30,
+      "salary": 1200,
+      "skills": ["Payroll", "Tax Compliance", "HR Software", "Confidentiality", "Attention to Detail"],
+      "industry": "Human Resources",
+      "image": "https://i.ibb.co/CWBW6Dz/management.png"
+    },
+    {
+      "id": 13,
+      "category_name": "Sales",
+      "job_title": "Account Executive",
+      "description": "Identify and develop new business opportunities. Manage client relationships, prepare proposals, and meet sales targets.",
+      "key_responsibilities": [
+        "Identify new business opportunities.",
+        "Prepare sales proposals and presentations.",
+        "Meet sales quotas and targets."
+      ],
+      "skills_and_experience": "Experience in sales and business development. Strong communication and negotiation skills. Knowledge of CRM software.",
+      "expiration_date": "October 25, 2025",
+      "location": "Sylhet, Bangladesh",
+      "hours_per_week": 35,
+      "rate_per_hour": 32,
+      "salary": 1120,
+      "skills": ["Business Development", "Sales Strategy", "CRM", "Negotiation", "Client Management"],
+      "industry": "Sales",
+      "image": "https://i.ibb.co/RNXN5Yj/sales.png"
+    },
+    {
+      "id": 7,
+      "category_name": "Design",
+      "job_title": "UI/UX Designer",
+      "description": "Design user interfaces for websites and mobile applications. Conduct user testing and collaborate with developers for design consistency.",
+      "key_responsibilities": [
+        "Create wireframes, prototypes, and user flows.",
+        "Conduct user testing and analyze results.",
+        "Work with developers to ensure design consistency."
+      ],
+      "skills_and_experience": "Proficiency in design tools like Figma, Adobe XD, and Sketch. Strong understanding of user-centered design principles and usability testing.",
+      "expiration_date": "December 14, 2025",
+      "location": "Dhaka, Bangladesh",
+      "hours_per_week": 35,
+      "rate_per_hour": 32,
+      "salary": 1120,
+      "skills": ["UI/UX Design", "Wireframing", "Prototyping", "Figma", "User Testing"],
+      "industry": "Design",
+      "image": "https://i.ibb.co/Dg3yLF3/web-design.png"
+    },
+    {
+      "id": 9,
+      "category_name": "Education",
+      "job_title": "Curriculum Developer",
+      "description": "Design and develop educational curricula. Ensure alignment with educational standards. Collaborate with educators for effective implementation.",
+      "key_responsibilities": [
+        "Create curricula for various subjects.",
+        "Ensure educational standards and goals are met.",
+        "Work with teachers to implement the curriculum."
+      ],
+      "skills_and_experience": "Experience in curriculum design. Strong knowledge of educational standards. Ability to collaborate with educators and communicate effectively.",
+      "expiration_date": "July 20, 2025",
+      "location": "Barisal, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 36,
+      "salary": 1440,
+      "skills": ["Curriculum Design", "Education Standards", "Teaching", "Collaboration", "Communication"],
+      "industry": "Education",
+      "image": "https://i.ibb.co/0q1D5w7/mortarboard.png"
+    },
+    {
+      "id": 4,
+      "category_name": "Sales",
+      "job_title": "Sales Manager",
+      "description": "Lead a sales team and manage client accounts. Develop sales strategies and ensure targets are met. Monitor team performance and provide coaching.",
+      "key_responsibilities": [
+        "Lead and motivate a sales team.",
+        "Develop sales strategies and execute them.",
+        "Monitor team performance and provide feedback."
+      ],
+      "skills_and_experience": "Proven experience in sales leadership. Strong communication and management skills. Ability to meet sales targets and work with clients.",
+      "expiration_date": "January 22, 2025",
+      "location": "Chattogram, Bangladesh",
+      "hours_per_week": 45,
+      "rate_per_hour": 38,
+      "salary": 1710,
+      "skills": ["Sales Management", "Leadership", "Client Relationship", "Team Coaching", "Sales Strategy"],
+      "industry": "Sales",
+      "image": "https://i.ibb.co/RNXN5Yj/sales.png"
+    },
+    {
+      "id": 14,
+      "category_name": "Human Resources",
+      "job_title": "HR Assistant",
+      "description": "Assist in the recruitment process, manage employee records, and handle HR-related queries. Help maintain a smooth operation of HR tasks and employee onboarding.",
+      "key_responsibilities": [
+        "Assist in recruitment and onboarding.",
+        "Manage employee records and data.",
+        "Handle HR-related queries from employees."
+      ],
+      "skills_and_experience": "Experience in administrative roles. Strong communication and organizational skills. Ability to work with sensitive employee data.",
+      "expiration_date": "April 15, 2025",
+      "location": "Sylhet, Bangladesh",
+      "hours_per_week": 35,
+      "rate_per_hour": 18,
+      "salary": 630,
+      "skills": ["HR Administration", "Recruitment", "Employee Records", "Communication", "Organizational Skills"],
+      "industry": "Human Resources",
+      "image": "https://i.ibb.co/CWBW6Dz/management.png"
+    },
+    {
+      "id": 8,
+      "category_name": "Education",
+      "job_title": "Math Tutor",
+      "description": "Tutor students in mathematics. Help students solve problems and understand math concepts. Prepare individualized lesson plans and track student progress.",
+      "key_responsibilities": [
+        "Provide math tutoring sessions to students.",
+        "Assess students' progress and provide feedback.",
+        "Create personalized lesson plans based on student needs."
+      ],
+      "skills_and_experience": "Strong knowledge of mathematics. Experience in tutoring or teaching. Ability to explain math concepts clearly and engage students.",
+      "expiration_date": "August 25, 2025",
+      "location": "Rajshahi, Bangladesh",
+      "hours_per_week": 20,
+      "rate_per_hour": 19,
+      "salary": 380,
+      "skills": ["Math Tutoring", "Teaching", "Lesson Planning", "Student Assessment", "Problem-Solving"],
+      "industry": "Education",
+      "image": "https://i.ibb.co/0q1D5w7/mortarboard.png"
+    },
+    {
+      "id": 17,
+      "category_name": "Sales",
+      "job_title": "Retail Sales Representative",
+      "description": "Assist customers in selecting products and provide recommendations. Process sales transactions and maintain store organization.",
+      "key_responsibilities": [
+        "Assist customers with their product selection.",
+        "Process sales transactions and maintain cash register.",
+        "Ensure store displays are well-organized."
+      ],
+      "skills_and_experience": "Customer service experience. Strong product knowledge. Ability to handle sales transactions and maintain store organization.",
+      "expiration_date": "May 30, 2025",
+      "location": "Dhaka, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 16,
+      "salary": 640,
+      "skills": ["Customer Service", "Retail Sales", "Product Knowledge", "Sales Transactions", "Store Management"],
+      "industry": "Sales",
+      "image": "https://i.ibb.co/RNXN5Yj/sales.png"
+    },
+    {
+      "id": 16,
+      "category_name": "Human Resources",
+      "job_title": "Recruitment Coordinator",
+      "description": "Coordinate recruitment activities, screen candidates, and schedule interviews. Ensure smooth candidate experience and maintain recruitment data.",
+      "key_responsibilities": [
+        "Coordinate job postings and recruitment activities.",
+        "Screen candidates and schedule interviews.",
+        "Maintain recruitment records and data."
+      ],
+      "skills_and_experience": "Experience in recruitment coordination. Strong organizational and communication skills. Ability to manage multiple tasks.",
+      "expiration_date": "January 10, 2025",
+      "location": "Barisal, Bangladesh",
+      "hours_per_week": 40,
+      "rate_per_hour": 23,
+      "salary": 920,
+      "skills": ["Recruitment", "Screening", "Scheduling", "Candidate Experience", "Data Management"],
+      "industry": "Human Resources",
+      "image": "https://i.ibb.co/CWBW6Dz/management.png"
+    }
+  ]
+  

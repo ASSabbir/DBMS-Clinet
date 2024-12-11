@@ -1,0 +1,19 @@
+#banner-container{
+    background: rgba(0, 0, 0, .6)  url(../../assets/hunters-race-MYbhN8KaaEc-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: darken;
+    color: white;
+}
+
+.img-div img{
+    filter: invert(16%) sepia(80%) saturate(3753%) hue-rotate(267deg) brightness(86%) contrast(96%)
+}
+.categori-container:hover .img-div{
+    background-color: #aa72df;
+    transition-duration: 0.3s;
+}
+.categori-container:hover img{
+    filter: invert(100%) sepia(0%) saturate(4564%) hue-rotate(240deg) brightness(113%) contrast(101%);
+    transition-duration: 0.1s;
+}

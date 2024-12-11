@@ -1,0 +1,68 @@
+[
+      {
+        "id": 1,
+        "name": "Development",
+        "description": "Jobs related to software development, web development, mobile app development, and more.",
+        "image_url": "https://i.ibb.co.com/ZLXqr26/coding.png",
+        "total_jobs": 2450
+      },
+      {
+        "id": 2,
+        "name": "Design",
+        "description": "Creative jobs including graphic design, UI/UX design, product design, and more.",
+        "image_url": "https://i.ibb.co.com/Dg3yLF3/web-design.png",
+        "total_jobs": 1320
+      },
+      {
+        "id": 3,
+        "name": "Marketing",
+        "description": "Opportunities in digital marketing, content marketing, SEO, and advertising.",
+        "image_url": "https://i.ibb.co.com/Z8pvqR0/megaphone.png",
+        "total_jobs": 850
+      },
+      {
+        "id": 4,
+        "name": "Sales",
+        "description": "Sales-related roles, including business development, account management, and retail sales.",
+        "image_url": "https://i.ibb.co.com/RNXN5Yj/sales.png",
+        "total_jobs": 670
+      },
+      {
+        "id": 5,
+        "name": "Project Management",
+        "description": "Jobs in finance, accounting, investment, and financial analysis.",
+        "image_url": "https://i.ibb.co.com/bFqN4m9/project-management.png",
+        "total_jobs": 510
+      },
+      {
+        "id": 6,
+        "name": "Customer Service",
+        "description": "Customer support roles including help desk, call center, and client services.",
+        "image_url": "https://i.ibb.co.com/qNDwqTH/customer-service.png",
+        "total_jobs": 920
+      },
+      {
+        "id": 7,
+        "name": "Human Resources",
+        "description": "HR roles in recruitment, employee relations, and organizational development.",
+        "image_url": "https://i.ibb.co.com/CWBW6Dz/management.png",
+        "total_jobs": 410
+      },
+      {
+        "id": 8,
+        "name": "Education",
+        "description": "Jobs in teaching, tutoring, curriculum development, and educational administration.",
+        "image_url": "https://i.ibb.co.com/0q1D5w7/mortarboard.png",
+        "total_jobs": 230
+      },
+      {
+        "id": 9,
+        "name": "Healthcare",
+        "description": "Opportunities in nursing, medical assistance, therapy, and healthcare administration.",
+        "image_url": "https://i.ibb.co.com/sq70Hjt/healthcare.png",
+        "total_jobs": 580
+      }
+      
+]
+
+  
